@@ -1,10 +1,9 @@
 {
     "name": "ai_ponybot_basic_EN",
-    "description": "",
+    "description": "boundaryX AI Ponybot extension blocks for micro:bit",
+    "license": "MIT",
     "dependencies": {
-        "core": "*",
-        "radio": "*",
-        "microphone": "*"
+        "core": "*"
     },
     "files": [
         "main.blocks",
